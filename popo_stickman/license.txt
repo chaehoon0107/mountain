@@ -1,0 +1,11 @@
+Model Information:
+* title:	Popo Stickman
+* source:	https://sketchfab.com/3d-models/popo-stickman-a85d541f011e44799a023210d5846f45
+* author:	muratarslan (https://sketchfab.com/muratarslan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Popo Stickman" (https://sketchfab.com/3d-models/popo-stickman-a85d541f011e44799a023210d5846f45) by muratarslan (https://sketchfab.com/muratarslan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
